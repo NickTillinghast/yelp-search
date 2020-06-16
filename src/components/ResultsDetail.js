@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Image, Text, StyleSheet } from 'react-native';
-import ResultsList from './ResultsList';
+
 
 const ResultsDetail = ({ result }) => {
     return <View style={styles.container}>
